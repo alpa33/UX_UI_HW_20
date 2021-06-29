@@ -25,3 +25,11 @@
     text-decoration: none;
     background-color:white;
   }
+  #Button6{ 
+    background-color:#8733A3;
+    color: white;
+    height:48px;
+    width:200px;
+    border-radius:25px;
+    font-family:"Poppins";  
+    font-size:18px;}
