@@ -35,6 +35,9 @@ line-height: 80px;
 text-align: center;
 color: #8733A3;}
 
+.paw{
+  float:right;
+}
 #Button6{ 
     background-color:#8733A3;
     color: white;
