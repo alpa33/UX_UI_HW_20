@@ -33,14 +33,12 @@ height: 90px;
 left: 474px;
 top: 205px;
 
-font-family: Poppins;
+font-family: "Poppins";
 font-style: normal;
 font-weight: bold;
 font-size: 60px;
-line-height: 90px;
-/* identical to box height */
+line-height: 80px;
 text-align: center;
-
 color: #8733A3;}
 
 #Button6{ 
