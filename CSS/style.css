@@ -48,25 +48,15 @@ color: #8733A3;}
     font-size:18px;}
 #Button5{
 filter: drop-shadow(4px 4px 0px #FFC839);
-/* Button Text */
-font-family: Poppins;
+font-family: "Poppins";
 font-style: normal;
 font-weight: bold;
 font-size: 18px;
 line-height: 27px;
 text-align: center;
+color: #FFF6E8;
+background-color:#8733A3;}
 
-color: #FFF6E8;}
-
-
-#Button5{ 
-    background-color:#8733A3;
-    color: white;
-    height:48px;
-    width:200px;
-    border-radius:25px;
-    font-family:"Poppins";  
-    font-size:18px;}
     
 #Button4{ 
     background-color:#8733A3;
