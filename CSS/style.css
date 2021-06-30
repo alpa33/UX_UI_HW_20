@@ -41,7 +41,16 @@ color: #8733A3;}
 
 .paw{
   float:right;
-}/* Group 7309 */
+}
+
+.res{
+  font-size:36px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  line-height: 54px;
+  text-align: center;
+  color: #8733A3;}
 
 #Button6{width: 150px;
 height: 60px;
