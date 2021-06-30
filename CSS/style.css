@@ -143,6 +143,9 @@ background-color:#8733A3;}
   .RES{
     padding:20px;
   }
+  .featured{
+    margin: 10px;padding:20px;
+  }
 
 .card-deck {
   display: grid;
