@@ -65,6 +65,6 @@
       /* For 3 columns */
       grid-template-columns: auto auto auto;
   }
-  img {
+  .card-img-top {
       width: 100%;
   }
