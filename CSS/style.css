@@ -121,6 +121,7 @@ background-color:#8733A3;}
   .row row-cols-1 row-cols-md-2{
     padding:20px;
     margin:10px;
+    border:none;
   }
   .divide{
     display: block;
