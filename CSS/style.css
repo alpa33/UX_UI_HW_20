@@ -113,7 +113,8 @@ background-color:#8733A3;}
 
 .card {
   display: grid;
-  grid-template-columns: auto auto auto;}
+  grid-template-columns: auto auto auto;
+  border:none;}
 
 .card-img-top {
   width: 100%;}
@@ -121,7 +122,6 @@ background-color:#8733A3;}
   .row row-cols-1 row-cols-md-2{
     padding:20px;
     margin:10px;
-    border:none;
   }
   .divide{
     display: block;
