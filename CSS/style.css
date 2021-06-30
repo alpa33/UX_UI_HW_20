@@ -61,10 +61,15 @@
     }
     .card {
       display: grid;
-        
-      /* For 3 columns */
       grid-template-columns: auto auto auto;
   }
   .card-img-top {
       width: 100%;
   }
+  .card-deck {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.card-img-top2 {
+    width: 100%;
+}
