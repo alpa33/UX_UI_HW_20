@@ -115,7 +115,8 @@ background-color:#8733A3;}
 .card-deck {
   display: grid;
   grid-template-columns: auto auto;
-  background-color:#FFC839;}
+  background-color:#FFC839;
+  align-items:center;}
 
 .card3{
   background-color:#FFF6E8;
