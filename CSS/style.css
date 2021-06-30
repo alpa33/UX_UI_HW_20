@@ -113,11 +113,13 @@ background-color:#8733A3;}
   width: 100%;}
 
 .card-deck {
-  display: flex;
-  justify-content:center;
-  flex-direction:row;
+  display: grid;
+  grid-template-columns: auto auto;
   background-color:#FFC839;
-
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-evenly;
+  align-items: center;}
 
 .card3{
   background-color:#FFF6E8;
