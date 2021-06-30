@@ -37,15 +37,23 @@ color: #8733A3;}
 
 .paw{
   float:right;
-}
-#Button6{ 
-    background-color:#8733A3;
-    color: white;
-    height:48px;
-    width:200px;
-    border-radius:25px;
-    font-family:"Poppins";  
-    font-size:18px;}
+}/* Group 7309 */
+
+#Button6{width: 150px;
+height: 69px;
+position: absolute;
+left: 86.04%;
+right: 3.54%;
+
+background: #8733A3;
+border-radius: 15px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+color: white;}
+
 #Button5{
 filter: drop-shadow(4px 4px 0px #FFC839);
 font-family: "Poppins";
@@ -68,14 +76,6 @@ background-color:#8733A3;}
     font-family:"Poppins";  
     font-size:18px;}
             
-.Button5{ 
-    background-color:#8733A3;
-    color: white;
-    height:48px;
-    width:200px;
-    border-radius:25px;
-    font-family:"Poppins";  
-    font-size:18px;}
     
   .jumbotron{
       text-align:center;
