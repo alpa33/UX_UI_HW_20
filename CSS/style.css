@@ -55,9 +55,7 @@ color: #8733A3;}
 #Button6{
 width: 150px;
 height: 60px;
-position: absolute;
-left: 80.04%;
-right: 2%;
+position:block;
 
 background: #8733A3;
 border-radius: 15px;
