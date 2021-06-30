@@ -42,7 +42,12 @@ color: #8733A3;}
 .paw{
   float:right;
 }
-
+.description{
+  text-align:center;
+  font-family:"Poppins";
+  font-style:normal;
+  font-size:20px;
+  color: #000000;}
 .res{
   font-size:36px;
   font-family: "Poppins";
