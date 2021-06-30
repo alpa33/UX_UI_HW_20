@@ -130,6 +130,10 @@ background-color:#8733A3;}
     font-size:24px;
     font-family:"Poppins";
   }
+  .card-text{
+    font-size:14px;
+    font-family:"Poppins";
+  }
   .divide{
     display: block;
     margin-left: auto;
