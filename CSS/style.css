@@ -46,6 +46,32 @@ color: #8733A3;}
     border-radius:25px;
     font-family:"Poppins";  
     font-size:18px;}
+#Button5{
+position: absolute;
+left: 43.54%;
+right: 42.57%;
+top: 49.03%;
+bottom: 49.28%;
+
+filter: drop-shadow(4px 4px 0px #FFC839);
+
+position: absolute;
+left: 3.05%;
+right: 3.05%;
+top: 20.83%;
+bottom: 6.25%;
+
+/* Button Text */
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #FFF6E8;}
+
+
 #Button5{ 
     background-color:#8733A3;
     color: white;
