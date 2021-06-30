@@ -59,3 +59,12 @@
         background-color:#8733A3;
         color:white;
     }
+    .card {
+      display: grid;
+        
+      /* For 3 columns */
+      grid-template-columns: auto auto auto;
+  }
+  img {
+      width: 100%;
+  }
