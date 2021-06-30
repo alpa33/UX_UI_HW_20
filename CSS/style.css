@@ -4,29 +4,29 @@
     float: right;
     display:block;
   }
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: white;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
   }
-  
-  li {
+
+ li {
     float: right;
     padding:10px;
   }
-  
-  li a {
-    display: block;
-    color: #8733A3;
-    text-align: center;
-    padding: 10px 10px;
-    text-decoration: none;
-    background-color:white;
+
+li a {
+ display: block;
+ color: #8733A3;
+ text-align: center;
+ padding: 10px 10px;
+ text-decoration: none;
+ background-color:white;
   }
 
-.display-4{}
+.display-4{
 position: absolute;
 width: 494px;
 height: 90px;
