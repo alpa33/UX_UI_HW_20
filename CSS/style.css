@@ -137,7 +137,8 @@ background-color:#8733A3;}
   .divide{
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
+    padding:15px;
   }
 
 .card-deck {
