@@ -4,6 +4,7 @@
     float: right;
     display:block;
     height:110px;
+    vertical-align: middle;
   }
 ul {
   list-style-type: none;
