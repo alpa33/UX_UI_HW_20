@@ -81,7 +81,9 @@ font-size: 20px;
 line-height: 30px;
 color: white;}
 
-#Button5{
+.Button5{
+
+  filter: drop-shadow(2px 2px 0px #FFC839);
   font-family: "Poppins";
   font-style: normal;
   font-weight: bold;
@@ -91,9 +93,7 @@ color: white;}
   height:48px;
   width:200px;
   border-radius:25px;
-  background-color:#8733A3;
-  vertical-align:middle;
-  filter: drop-shadow(2px 2px 0px #FFC839);}
+  background-color:#8733A3;}
 
 .Button4{ 
   font-family: "Poppins";
