@@ -216,7 +216,8 @@ font-size: 48px;
 color: #FFF6E8;}
 
 .card-img-top2 {
-    width: 100%;}
+  width: 100%;
+  border:5px solid #8733A3;}
 .card-body{
 border-style:solid;
 border-color:#8733A3;
