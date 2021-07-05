@@ -106,16 +106,15 @@ color: white;}
   border-radius:25px;
   background-color:#8733A3;}
             
-    
-  .jumbotron{
-      text-align:center;
-      background-color:#FFF6E8;
-      color:#8733A3;}
+.jumbotron{
+  text-align:center;
+  background-color:#FFF6E8;
+  color:#8733A3;}
 
-  .jumbotron2{
-      text-align:center;
-      background-color:#8733A3;
-      color:white;}
+.jumbotron2{
+  text-align:center;
+  background-color:#8733A3;
+  color:white;}
 
 .card {
   display: grid;
