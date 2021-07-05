@@ -92,6 +92,7 @@ color: white;}
   width:200px;
   border-radius:25px;
   background-color:#8733A3;
+  vertical-align:middle;
   filter: drop-shadow(4px 4px 0px #FFC839);}
 
 .Button4{ 
