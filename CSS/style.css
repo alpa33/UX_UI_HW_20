@@ -82,18 +82,16 @@ line-height: 30px;
 color: white;}
 
 #Button5{
-  width: 150px;
-  height: 60px;
-  position:block;
-  
-  background: #8733A3;
-  border-radius: 15px;
-  font-family: Poppins;
+  font-family: "Poppins";
   font-style: normal;
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 30px;
-  color: white;  
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  color: #FFF6E8;
+  height:48px;
+  width:200px;
+  border-radius:25px;
+  background-color:#8733A3;
   filter: drop-shadow(4px 4px 0px #FFC839);}
 
 .Button4{ 
