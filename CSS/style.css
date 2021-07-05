@@ -82,21 +82,20 @@ line-height: 30px;
 color: white;}
 
 #Button5{
-position: absolute;
-left: 43.54%;
-right: 42.57%;
-filter: drop-shadow(4px 4px 0px #FFC839);
-font-family: "Poppins";
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-text-align: center;
-color: #FFF6E8;
-height:48px;
-width:200px;
-border-radius:25px;
-background-color:#8733A3;}
-    
+  width: 150px;
+  height: 60px;
+  position:block;
+  
+  background: #8733A3;
+  border-radius: 15px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;  
+  filter: drop-shadow(4px 4px 0px #FFC839);}
+
 .Button4{ 
   font-family: "Poppins";
   font-style: normal;
@@ -139,7 +138,7 @@ background-color:#8733A3;}
     font-family:"Poppins";
   }
   .card-text{
-    font-size:16px;
+    font-size:18px;
     font-family:"Poppins";
   }
   .divide{
