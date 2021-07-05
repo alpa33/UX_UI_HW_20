@@ -61,7 +61,7 @@ color: #8733A3;}
 .res{
   font-size:36px;
   font-family: "Poppins";
-  font-style: normal;
+  font-style: medium;
   font-weight: 500;
   line-height: 54px;
   text-align: center;
@@ -89,18 +89,24 @@ font-size: 20px;
 line-height: 25px;
 color: white;}
 
+
 .Button5{
-  filter: drop-shadow(4px 4px 0px #FFC839);
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 18px;
-  text-align: center;
-  color: #FFF6E8;
-  height:48px;
-  width:200px;
-  border-radius:25px;
-  background-color:#8733A3;}
+position: absolute;
+left: 43.47%;
+right: 42.64%;
+top: 45.37%;
+bottom: 52.94%;
+filter: drop-shadow(4px 4px 0px #FFC839);
+font-family: "Poppins";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+color: #FFF6E8;
+height:48px;
+width:200px;
+border-radius:25px;
+background-color:#8733A3;}
 
 .Button4{ 
   font-family: "Poppins";
