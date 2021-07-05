@@ -197,9 +197,7 @@ background-color:#8733A3;}
   .about{
     border-style: none solid none none;
     border-color:white;
-    border-width:1px;
-  .featured{
-  }
+    border-width:1px;}
 
 .card-deck {
   display: grid;
