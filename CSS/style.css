@@ -3,6 +3,7 @@
     margin: 0px;
     float: right;
     display:block;
+    height:auto;
   }
 ul {
   list-style-type: none;
