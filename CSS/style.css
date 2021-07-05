@@ -50,6 +50,12 @@ color: #8733A3;}
 .paw{
   float:right;
 }
+.card-deck2{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 .description{
   text-align:center;
   font-family:"Poppins";
